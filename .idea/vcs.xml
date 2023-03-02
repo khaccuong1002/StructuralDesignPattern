@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/codegym-file-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/codegym-file-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/codegym/codegym-file-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/codegym/file/codegym-file-util" vcs="Git" />
+  </component>
+</project>
